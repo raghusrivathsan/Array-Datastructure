@@ -1,0 +1,4 @@
+import pandas as pd
+lst=['A','B','C','D','E','F','G']
+df=pd.DataFrame(lst)
+print(df)
